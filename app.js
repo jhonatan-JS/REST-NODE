@@ -5,4 +5,4 @@ const rotaProdutos = require('./routes/produtos');
 
 app.use('/produtos', rotaProdutos);
 
-module.exports = app;
+module.exports = app; 
